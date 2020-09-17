@@ -1,2 +1,2 @@
 # SpInStoSim
-Spatial indicator computation and effects for stock assessment
+Spatial indicator computation and effects in stock assessment
